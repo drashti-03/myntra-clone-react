@@ -4,7 +4,10 @@ This is a Myntra Clone built using React, Redux, and Express.js. The frontend is
 
 ## Live Demo
 **View it on:** [Myntra Clone](https://myntra-clone-react-eosin.vercel.app/)
+
 **Backend API:** [Backend on Render](https://myntra-clone-react-backend.onrender.com/items)
+
+## Note: It may take sometime to properly load the website.
 
 ## Features
 - React & Redux for state management.
